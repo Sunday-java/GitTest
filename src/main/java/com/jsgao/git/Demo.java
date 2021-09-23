@@ -13,5 +13,6 @@ public class Demo {
         System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("master push");
+        System.out.println("master pull");
     }
 }
