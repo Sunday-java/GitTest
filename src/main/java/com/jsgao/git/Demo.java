@@ -12,5 +12,6 @@ public class Demo {
         System.out.println("Hello Git4");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("master push");
     }
 }
